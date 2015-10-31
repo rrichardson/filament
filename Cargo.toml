@@ -1,0 +1,8 @@
+[package]
+name = "nghttp2"
+version = "0.1.0"
+authors = ["Rick Richardson <rick.richardson@gmail.com>"]
+
+[dependencies.nghttp2-sys]
+path = "nghttp2-sys"
+version = "0.1.0"

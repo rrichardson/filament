@@ -1,0 +1,9 @@
+[package]
+name = "nghttp2-sys"
+version = "0.1.0"
+authors = ["Rick Richardson <rick.richardson@gmail.com>"]
+build="build.rs"
+# $ target/debug/bindgen ~/Projects/nghttp2/lib/includes/nghttp2/nghttp2.h -match nghttp2.h
+#       -I ~/Projects/nghttp2/lib/includes/ -o ~/Projects/nghttp2-rs/nghttp2-sys/src/nghttp2.rs
+
+
